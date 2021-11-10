@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OrderNacosMain83 {
 
     public static void main(String[] args) {
-        System.out.println("githubwuwwuwu8888");
+        System.out.println("git8888");
         SpringApplication.run(OrderNacosMain83.class,args);
     }
 }
